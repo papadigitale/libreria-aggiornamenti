@@ -1,0 +1,9 @@
+{
+    "formato": 1,
+    "tipo": "indice-libreria-di-casa",
+    "autore": "Francesco Lombardo scrittore",
+    "impronta": "948A04F9E0CDCEC08C24",
+    "chiave": "WaDQjJROwPi7ABTkwyVvvS402MNz+wlQXm/Qf30iiZw=",
+    "contenuto": "{\n    \"app\": \"libreria-di-casa\",\n    \"seq\": 1794070835,\n    \"emesso\": \"2026-11-07T18:00:35+01:00\",\n    \"sistema\": null,\n    \"plugin\": {\n        \"lista-desideri\": {\n            \"versione\": \"1.0.0\",\n            \"file\": \"plugin/lista-desideri-1.0.0.zip\",\n            \"sha256\": \"88c8557edfd38c575865c0ba3a03c518b27894d4f3f9b668cce18e54056d3cbf\",\n            \"dim\": 79477,\n            \"data\": \"2026-11-07T18:00:31+01:00\",\n            \"nome\": \"Lista dei desideri\",\n            \"autore\": \"Francesco\",\n            \"descrizione\": \"Ognuno ha la sua lista dei libri desiderati, privata e fuori dalla Libreria: si condivide con alcuni utenti o con tutti, oppure con un link segreto anche su WhatsApp. Chi ha un account può dire «Lo regalo io» senza che il festeggiato lo sappia.\",\n            \"richiede\": \"1.9.7\",\n            \"php_min\": \"7.4\",\n            \"note\": [],\n            \"icona\": {\n                \"file\": \"plugin/lista-desideri.png\",\n                \"sha256\": \"d283d610e8cb9ac773bf95001fe2b056061304ddf4193fe49c5f966a6d29e6a3\",\n                \"dim\": 64839\n            }\n        }\n    }\n}",
+    "firma": "i6M6BVFcHrnGtwXG8A0l4WZuYaf2KreA2E9lKkg1jKer/HNOMWVekls/ys8/tM7GSOXCa84VpY2ExONYL4TXCw=="
+}
